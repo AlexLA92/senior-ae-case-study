@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: fct_patient_trial_matches
+    description: >
+      Fact table of patient-trial matches. Each row represents one patient
+      being matched to one trial at one site. The funnel timestamps track
+      the patient's progression: processed → reviewed → enrolled.
+    columns:
+      - name: patient_id
+        description: Identifier for the patient (e.g. pat_12345). Not globally unique — a patient can appear in multiple trials.
+      - name: trial_id
+        description: Foreign key to dim_trials. The trial this patient was matched to.
+      - name: site_id
+        description: Foreign key to dim_sites. The site where this match was processed.
+      - name: processedAt
+        description: Timestamp when the patient was first processed (matched) for this trial. Always populated.
+      - name: reviewedAt
+        description: Timestamp when the match was reviewed by the site. Null if not yet reviewed.
+      - name: enrolledAt
+        description: Timestamp when the patient was enrolled in the trial. Null if not enrolled.

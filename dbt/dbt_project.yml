@@ -1,0 +1,13 @@
+name: "dbt_case_study"
+version: "1.0.0"
+config-version: 2
+profile: "dbt_case_study"
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+
+models:
+  dbt_case_study:
+    +materialized: table

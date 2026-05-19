@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: stg_trials
+    description: Staged clinical trials data from the raw trials seed.
+    columns:
+      - name: trial_id
+        description: Unique identifier for the clinical trial (e.g. tr_0001).
+      - name: sponsor_id
+        description: Foreign key to the sponsor funding this trial.
+      - name: trialName
+        description: Internal code name for the trial (e.g. Aspire-342).
+      - name: indication
+        description: Medical condition or disease targeted by the trial.
+      - name: phase
+        description: Clinical trial phase (Phase I, II, III, or IV).
+      - name: status
+        description: Current recruitment status of the trial (recruiting, active, completed, suspended).
+      - name: start_date
+        description: Date the trial began recruiting.
+      - name: end_date
+        description: Planned or actual end date of the trial.

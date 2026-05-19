@@ -1,0 +1,7 @@
+dbt_case_study:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "dbt_case_study.duckdb"
+      threads: 4
