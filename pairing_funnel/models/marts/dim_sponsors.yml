@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: dim_sponsors
+    description: Sponsor dimension table.
+    columns:
+      - name: sponsor_id
+        description: Primary key.
+      - name: sponsor_name
+        description: Name of the sponsor.

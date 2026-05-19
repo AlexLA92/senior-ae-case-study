@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: stg_trials
+    description: Staged trials data.
+    columns:
+      - name: trial_id
+        description: Unique identifier for the trial.
+      - name: sponsor_id
+        description: FK to sponsors.

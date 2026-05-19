@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: stg_sponsors
+    description: Staged sponsors data.
+    columns:
+      - name: sponsor_id
+        description: Unique identifier for the sponsor.
+      - name: sponsor_name
+        description: Name of the sponsor.

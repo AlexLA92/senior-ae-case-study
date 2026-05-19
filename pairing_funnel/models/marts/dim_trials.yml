@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: dim_trials
+    description: Trial dimension table.
+    columns:
+      - name: trial_id
+        description: Primary key.
+      - name: sponsor_id
+        description: FK to dim_sponsors.

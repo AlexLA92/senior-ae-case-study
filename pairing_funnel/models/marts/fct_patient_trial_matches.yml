@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: fct_patient_trial_matches
+    description: Fact table of patient-trial matches with funnel timestamps.
+    columns:
+      - name: match_id
+        description: Match identifier.
+      - name: patient_id
+        description: Patient identifier.
+      - name: trial_id
+        description: FK to dim_trials.
+      - name: site_id
+        description: FK to dim_sites.

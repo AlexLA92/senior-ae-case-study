@@ -1,0 +1,9 @@
+pairing_funnel/target/
+pairing_funnel/dbt_packages/
+pairing_funnel/logs/
+pairing_funnel/*.duckdb
+pairing_funnel/*.duckdb.wal
+pairing_funnel/package-lock.yml
+__pycache__/
+*.pyc
+.DS_Store

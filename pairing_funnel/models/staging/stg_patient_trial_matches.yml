@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: stg_patient_trial_matches
+    description: Staged patient trial matches.
+    columns:
+      - name: match_id
+        description: Unique identifier for the match.
+      - name: patient_id
+        description: Identifier for the patient.
+      - name: trial_id
+        description: FK to trials.
+      - name: site_id
+        description: FK to sites.

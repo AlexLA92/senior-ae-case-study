@@ -1,0 +1,147 @@
+trial_id,sponsor_id,trial_name,indication,phase,status,start_date,end_date
+tr_0001,sp_001,According-214,Non-Small Cell Lung Cancer,Phase III,active,2025-10-21,2028-02-02
+tr_0002,sp_001,Collection-242,Rheumatoid Arthritis,Phase I,suspended,2025-08-26,2026-10-08
+tr_0003,sp_001,Grow-130,Type 2 Diabetes,Phase II,active,2025-06-21,2026-01-19
+tr_0004,sp_001,Dinner-716,Non-Small Cell Lung Cancer,Phase II,suspended,2024-03-18,2026-02-13
+tr_0005,sp_001,Great-559,NASH,Phase III,recruiting,2026-04-01,2027-05-11
+tr_0006,sp_001,Husband-925,Major Depressive Disorder,Phase IV,completed,2023-09-07,2026-04-21
+tr_0007,sp_001,Throw-259,Alzheimer's Disease,Phase III,recruiting,2023-09-01,2024-12-08
+tr_0008,sp_001,Everything-489,Rheumatoid Arthritis,Phase III,completed,2024-05-29,2025-02-27
+tr_0009,sp_001,Show-370,Breast Cancer,Phase IV,recruiting,2025-10-18,2027-12-25
+tr_0010,sp_001,Capital-180,Migraine,Phase III,completed,2024-10-03,2026-04-23
+tr_0011,sp_002,Human-296,Type 2 Diabetes,Phase I,active,2026-04-18,2028-05-28
+tr_0012,sp_002,Finally-396,Type 2 Diabetes,Phase II,recruiting,2023-08-13,2026-04-10
+tr_0013,sp_002,Present-384,Heart Failure,Phase III,active,2025-11-12,2027-06-04
+tr_0014,sp_002,High-463,Alzheimer's Disease,Phase III,recruiting,2026-01-12,2027-07-25
+tr_0015,sp_002,Sea-750,Major Depressive Disorder,Phase II,active,2025-02-09,2027-04-23
+tr_0016,sp_002,Recently-488,Crohn's Disease,Phase II,completed,2023-08-03,2025-05-17
+tr_0017,sp_002,Figure-886,Breast Cancer,Phase II,recruiting,2024-01-23,2026-12-01
+tr_0018,sp_002,Top-423,Prostate Cancer,Phase III,recruiting,2026-05-01,2029-01-29
+tr_0019,sp_002,Blood-680,Idiopathic Pulmonary Fibrosis,Phase II,suspended,2024-01-28,2025-02-27
+tr_0020,sp_002,Long-758,Heart Failure,Phase II,completed,2024-07-08,2026-02-13
+tr_0021,sp_002,His-352,Migraine,Phase III,suspended,2025-04-14,2026-03-02
+tr_0022,sp_002,Hear-508,Hepatitis B,Phase II,active,2023-11-13,2025-12-29
+tr_0023,sp_002,Example-605,Type 2 Diabetes,Phase I,recruiting,2024-01-03,2025-12-04
+tr_0024,sp_003,Result-742,Major Depressive Disorder,Phase IV,recruiting,2025-06-25,2026-05-27
+tr_0025,sp_003,Politics-490,Psoriasis,Phase IV,completed,2025-04-27,2026-11-22
+tr_0026,sp_003,None-981,Non-Small Cell Lung Cancer,Phase I,completed,2025-04-13,2027-04-29
+tr_0027,sp_003,Common-756,Idiopathic Pulmonary Fibrosis,Phase I,completed,2025-07-25,2028-03-18
+tr_0028,sp_003,Expect-261,Heart Failure,Phase I,completed,2024-10-06,2026-06-23
+tr_0029,sp_003,Push-880,Major Depressive Disorder,Phase I,completed,2026-05-06,2028-03-28
+tr_0030,sp_003,Discuss-754,Obesity,Phase II,active,2025-06-10,2028-04-16
+tr_0031,sp_003,Threat-880,Major Depressive Disorder,Phase I,completed,2025-06-06,2026-12-20
+tr_0032,sp_003,Arrive-119,Rheumatoid Arthritis,Phase III,completed,2025-09-06,2027-07-18
+tr_0033,sp_003,Almost-159,Atopic Dermatitis,Phase I,recruiting,2024-01-24,2025-03-24
+tr_0034,sp_003,Institution-597,Type 2 Diabetes,Phase II,active,2025-10-16,2028-05-02
+tr_0035,sp_004,Development-586,Migraine,Phase II,completed,2024-03-07,2026-07-10
+tr_0036,sp_004,Our-993,Psoriasis,Phase IV,active,2026-02-11,2028-02-01
+tr_0037,sp_004,Forward-873,Alzheimer's Disease,Phase III,suspended,2026-01-02,2028-01-04
+tr_0038,sp_004,Money-765,Hepatitis B,Phase IV,suspended,2024-01-06,2026-05-22
+tr_0039,sp_004,Who-353,Atopic Dermatitis,Phase I,completed,2024-07-25,2025-05-24
+tr_0040,sp_004,Character-702,Migraine,Phase II,active,2025-04-21,2025-11-08
+tr_0041,sp_004,Employee-172,Breast Cancer,Phase II,recruiting,2024-03-04,2024-09-07
+tr_0042,sp_004,Nothing-980,Idiopathic Pulmonary Fibrosis,Phase I,active,2025-08-11,2026-03-11
+tr_0043,sp_004,Pattern-785,Sickle Cell Disease,Phase II,active,2024-03-01,2025-06-09
+tr_0044,sp_004,Past-684,NASH,Phase IV,active,2024-08-30,2027-03-08
+tr_0045,sp_004,Discuss-584,Asthma,Phase II,recruiting,2024-07-29,2027-04-08
+tr_0046,sp_004,Certainly-774,Asthma,Phase III,suspended,2026-05-15,2027-02-18
+tr_0047,sp_005,Benefit-578,Breast Cancer,Phase I,recruiting,2024-11-26,2026-07-19
+tr_0048,sp_005,Traditional-845,Idiopathic Pulmonary Fibrosis,Phase I,active,2025-08-23,2027-04-07
+tr_0049,sp_005,Product-294,Migraine,Phase IV,active,2023-09-16,2024-09-26
+tr_0050,sp_005,Response-287,Crohn's Disease,Phase IV,active,2023-11-10,2025-07-14
+tr_0051,sp_005,Attack-177,Heart Failure,Phase I,recruiting,2024-08-23,2027-08-03
+tr_0052,sp_005,Pick-653,Non-Small Cell Lung Cancer,Phase I,active,2024-07-13,2026-11-07
+tr_0053,sp_006,Newspaper-516,Sickle Cell Disease,Phase IV,active,2026-05-13,2027-04-28
+tr_0054,sp_006,On-510,Breast Cancer,Phase II,suspended,2024-02-18,2027-01-18
+tr_0055,sp_006,Activity-499,Crohn's Disease,Phase IV,completed,2025-12-16,2026-06-16
+tr_0056,sp_006,Building-813,Migraine,Phase IV,active,2025-06-01,2027-02-04
+tr_0057,sp_006,Not-403,Alzheimer's Disease,Phase I,recruiting,2025-06-03,2026-06-12
+tr_0058,sp_006,Specific-421,Breast Cancer,Phase I,suspended,2025-08-18,2028-03-20
+tr_0059,sp_006,Brother-973,Obesity,Phase II,recruiting,2025-04-19,2027-03-14
+tr_0060,sp_006,Coach-182,Major Depressive Disorder,Phase I,recruiting,2024-04-04,2026-03-05
+tr_0061,sp_007,Seven-982,Atopic Dermatitis,Phase IV,recruiting,2024-09-26,2027-02-14
+tr_0062,sp_007,Everyone-683,Atopic Dermatitis,Phase I,recruiting,2026-01-02,2028-12-28
+tr_0063,sp_007,Sound-773,NASH,Phase III,completed,2026-04-17,2027-12-17
+tr_0064,sp_007,While-785,Idiopathic Pulmonary Fibrosis,Phase II,completed,2023-11-30,2024-12-23
+tr_0065,sp_008,Process-234,Multiple Sclerosis,Phase IV,completed,2023-09-12,2025-04-19
+tr_0066,sp_008,Purpose-174,Non-Small Cell Lung Cancer,Phase IV,recruiting,2024-04-09,2026-11-14
+tr_0067,sp_008,Decide-650,Alzheimer's Disease,Phase III,active,2024-11-24,2025-08-06
+tr_0068,sp_008,Sound-170,Atopic Dermatitis,Phase III,completed,2023-11-02,2025-04-22
+tr_0069,sp_008,Start-548,Migraine,Phase III,recruiting,2023-11-11,2024-10-17
+tr_0070,sp_008,Why-936,Migraine,Phase III,recruiting,2026-02-22,2028-07-04
+tr_0071,sp_008,Game-237,Crohn's Disease,Phase I,recruiting,2023-05-19,2026-05-02
+tr_0072,sp_008,Brother-666,Chronic Kidney Disease,Phase III,completed,2024-11-04,2027-06-02
+tr_0073,sp_008,Unit-315,Idiopathic Pulmonary Fibrosis,Phase II,completed,2026-03-01,2028-05-08
+tr_0074,sp_008,Surface-600,Crohn's Disease,Phase I,recruiting,2026-05-01,2028-03-28
+tr_0075,sp_008,Article-533,Crohn's Disease,Phase I,recruiting,2024-04-19,2026-07-27
+tr_0076,sp_008,Our-889,Chronic Kidney Disease,Phase III,active,2024-02-06,2025-07-11
+tr_0077,sp_008,Bed-552,Migraine,Phase IV,recruiting,2026-03-20,2028-10-14
+tr_0078,sp_009,Team-177,Chronic Kidney Disease,Phase I,completed,2025-07-28,2026-05-18
+tr_0079,sp_009,Soon-665,Chronic Kidney Disease,Phase IV,active,2023-08-02,2025-09-16
+tr_0080,sp_009,Car-415,Hepatitis B,Phase I,completed,2024-12-22,2025-08-01
+tr_0081,sp_009,May-798,Atopic Dermatitis,Phase I,completed,2023-10-06,2024-11-04
+tr_0082,sp_009,Company-673,Asthma,Phase II,active,2026-03-20,2028-11-22
+tr_0083,sp_009,Turn-266,Major Depressive Disorder,Phase IV,recruiting,2024-03-04,2027-02-02
+tr_0084,sp_009,Development-854,Idiopathic Pulmonary Fibrosis,Phase IV,active,2025-03-13,2026-03-11
+tr_0085,sp_010,Someone-263,Rheumatoid Arthritis,Phase IV,recruiting,2026-03-01,2027-05-28
+tr_0086,sp_010,Deep-581,Atopic Dermatitis,Phase II,suspended,2025-07-26,2028-06-19
+tr_0087,sp_010,Inside-412,Atopic Dermatitis,Phase II,recruiting,2025-07-07,2026-12-27
+tr_0088,sp_010,Rate-297,Prostate Cancer,Phase III,completed,2026-05-12,2028-09-13
+tr_0089,sp_010,We-171,Crohn's Disease,Phase III,suspended,2024-06-30,2027-05-31
+tr_0090,sp_010,Camera-963,Migraine,Phase III,recruiting,2024-12-05,2027-04-29
+tr_0091,sp_010,Attack-998,Crohn's Disease,Phase II,completed,2024-02-14,2024-12-08
+tr_0092,sp_010,Per-211,Psoriasis,Phase IV,completed,2024-05-23,2024-12-28
+tr_0093,sp_010,Per-905,Idiopathic Pulmonary Fibrosis,Phase IV,recruiting,2025-01-14,2027-07-29
+tr_0094,sp_010,Avoid-690,Alzheimer's Disease,Phase III,recruiting,2024-01-15,2025-08-11
+tr_0095,sp_011,Artist-546,Non-Small Cell Lung Cancer,Phase II,completed,2025-07-02,2027-12-24
+tr_0096,sp_011,Western-171,Idiopathic Pulmonary Fibrosis,Phase III,recruiting,2024-01-24,2025-10-06
+tr_0097,sp_012,Give-407,Obesity,Phase III,suspended,2023-06-22,2025-12-25
+tr_0098,sp_012,Economy-512,Multiple Sclerosis,Phase II,active,2023-08-04,2024-12-30
+tr_0099,sp_012,Mention-780,Prostate Cancer,Phase II,completed,2024-03-18,2025-11-18
+tr_0100,sp_012,Cause-661,Non-Small Cell Lung Cancer,Phase III,completed,2024-01-08,2025-08-25
+tr_0101,sp_012,Us-540,NASH,Phase III,suspended,2025-07-19,2026-08-18
+tr_0102,sp_012,Material-552,Alzheimer's Disease,Phase IV,active,2025-02-02,2026-10-27
+tr_0103,sp_012,Material-186,Multiple Sclerosis,Phase III,recruiting,2024-02-09,2026-06-12
+tr_0104,sp_012,Customer-869,Atopic Dermatitis,Phase III,active,2025-10-19,2028-08-02
+tr_0105,sp_012,Reason-303,Chronic Kidney Disease,Phase I,recruiting,2023-08-30,2026-05-31
+tr_0106,sp_012,Land-586,Psoriasis,Phase I,suspended,2024-09-02,2025-11-06
+tr_0107,sp_012,Treat-744,NASH,Phase II,suspended,2024-08-11,2026-04-07
+tr_0108,sp_012,Report-509,Atopic Dermatitis,Phase II,recruiting,2025-07-25,2027-06-11
+tr_0109,sp_012,Race-868,Rheumatoid Arthritis,Phase IV,active,2025-05-03,2028-05-01
+tr_0110,sp_012,Interesting-923,Obesity,Phase IV,recruiting,2023-09-03,2024-08-28
+tr_0111,sp_013,Such-355,Rheumatoid Arthritis,Phase IV,active,2025-07-24,2027-08-13
+tr_0112,sp_013,Energy-575,Obesity,Phase III,suspended,2025-12-17,2028-09-12
+tr_0113,sp_013,Not-934,Obesity,Phase IV,suspended,2023-12-14,2026-02-28
+tr_0114,sp_013,Knowledge-861,Sickle Cell Disease,Phase IV,completed,2024-09-21,2025-08-29
+tr_0115,sp_013,Maintain-353,Crohn's Disease,Phase IV,active,2023-12-05,2026-07-11
+tr_0116,sp_013,Wind-550,Type 2 Diabetes,Phase III,active,2024-02-16,2025-05-22
+tr_0117,sp_013,System-443,Idiopathic Pulmonary Fibrosis,Phase I,active,2023-08-09,2024-11-09
+tr_0118,sp_013,Oil-336,Prostate Cancer,Phase II,active,2025-12-17,2026-11-16
+tr_0119,sp_013,Reach-524,Asthma,Phase III,suspended,2023-09-03,2024-05-05
+tr_0120,sp_014,Think-163,Alzheimer's Disease,Phase IV,suspended,2026-05-17,2028-01-12
+tr_0121,sp_014,Better-698,Non-Small Cell Lung Cancer,Phase IV,suspended,2023-06-04,2026-01-27
+tr_0122,sp_014,Time-460,Multiple Sclerosis,Phase IV,suspended,2026-02-26,2026-08-31
+tr_0123,sp_015,Investment-865,Migraine,Phase II,suspended,2024-02-01,2026-02-01
+tr_0124,sp_015,Different-379,Asthma,Phase IV,recruiting,2024-10-31,2025-12-09
+tr_0125,sp_015,Weight-444,Prostate Cancer,Phase II,suspended,2025-12-20,2027-07-21
+tr_0126,sp_016,Hundred-737,Migraine,Phase I,suspended,2023-07-22,2024-05-27
+tr_0127,sp_016,In-677,Non-Small Cell Lung Cancer,Phase I,suspended,2023-05-21,2025-07-15
+tr_0128,sp_016,Step-987,Heart Failure,Phase II,recruiting,2024-03-04,2025-01-16
+tr_0129,sp_016,Feeling-488,Idiopathic Pulmonary Fibrosis,Phase II,suspended,2025-09-24,2026-12-14
+tr_0130,sp_016,Side-445,Prostate Cancer,Phase III,suspended,2024-08-24,2026-01-20
+tr_0131,sp_017,Only-954,Type 2 Diabetes,Phase IV,recruiting,2026-05-12,2027-07-24
+tr_0132,sp_017,Message-652,Breast Cancer,Phase III,active,2025-05-12,2027-12-15
+tr_0133,sp_017,Fine-170,Breast Cancer,Phase I,active,2023-11-04,2026-02-26
+tr_0134,sp_017,Article-959,Non-Small Cell Lung Cancer,Phase II,active,2024-01-12,2025-01-30
+tr_0135,sp_017,Occur-584,Rheumatoid Arthritis,Phase II,suspended,2025-02-11,2025-12-17
+tr_0136,sp_017,Former-362,Hepatitis B,Phase II,recruiting,2023-07-24,2026-01-05
+tr_0137,sp_018,Pattern-938,Major Depressive Disorder,Phase III,recruiting,2023-07-20,2026-03-22
+tr_0138,sp_018,Wide-126,Multiple Sclerosis,Phase IV,suspended,2024-10-22,2026-12-03
+tr_0139,sp_018,Coach-303,Type 2 Diabetes,Phase II,recruiting,2025-12-07,2028-06-06
+tr_0140,sp_018,Movie-891,Multiple Sclerosis,Phase I,recruiting,2023-07-20,2025-12-29
+tr_0141,sp_018,Cultural-645,Asthma,Phase III,recruiting,2023-08-14,2025-01-30
+tr_0142,sp_018,Author-763,Idiopathic Pulmonary Fibrosis,Phase I,suspended,2023-08-02,2025-06-30
+tr_0143,sp_018,Easy-601,Rheumatoid Arthritis,Phase IV,completed,2025-05-27,2028-03-14
+tr_0144,sp_018,Year-948,Heart Failure,Phase II,suspended,2024-08-03,2026-11-11
+tr_0145,sp_018,Employee-851,Obesity,Phase III,suspended,2026-01-17,2027-01-12
+tr_0146,sp_099,TEST-TRIAL-001,Test Indication,Phase I,active,2024-01-01,2025-01-01

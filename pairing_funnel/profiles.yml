@@ -1,0 +1,7 @@
+pairing_funnel:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "pairing_funnel.duckdb"
+      threads: 4

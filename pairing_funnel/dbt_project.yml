@@ -1,0 +1,22 @@
+name: "pairing_funnel"
+version: "1.0.0"
+config-version: 2
+profile: "pairing_funnel"
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+
+seeds:
+  pairing_funnel:
+    +schema: raw
+
+models:
+  pairing_funnel:
+    staging:
+      +materialized: table
+    marts:
+      +materialized: table
+    activation:
+      +materialized: table

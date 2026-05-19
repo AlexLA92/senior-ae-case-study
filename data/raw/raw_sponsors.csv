@@ -1,0 +1,20 @@
+sponsor_id,sponsor_name,created_at
+sp_001,Sanofi,2023-04-18
+sp_002,Moderna,2021-06-14
+sp_003,AstraZeneca,2022-03-15
+sp_004,Pfizer,2022-01-17
+sp_005,Novartis,2023-08-03
+sp_006,Roche,2023-05-29
+sp_007,Johnson & Johnson,2024-01-20
+sp_008,Merck,2021-08-21
+sp_009,GSK,2022-08-23
+sp_010,Bristol-Myers Squibb,2021-06-19
+sp_011,AbbVie,2022-01-12
+sp_012,Eli Lilly,2022-11-22
+sp_013,Bayer,2021-06-16
+sp_014,Amgen,2021-12-21
+sp_015,Gilead Sciences,2023-04-30
+sp_016,Boehringer Ingelheim,2023-01-05
+sp_017,Takeda,2022-01-14
+sp_018,Novo Nordisk,2023-02-22
+sp_099,TEST,2024-01-01
