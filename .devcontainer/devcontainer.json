@@ -1,0 +1,25 @@
+{
+  "name": "Senior AE Case Study",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "innoverio.vscode-dbt-power-user",
+        "ms-python.python",
+        "samuelcolvin.jinjahtml",
+        "github.copilot",
+        "github.copilot-chat",
+        "continue.continue"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "editor.formatOnSave": false
+      }
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "forwardPorts": [],
+  "remoteUser": "vscode"
+}

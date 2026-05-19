@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: staging_sites
+    description: Staged research sites data from the raw sites seed.
+    columns:
+      - name: site_id
+        description: Unique identifier for the research site (e.g. si_0001).
+      - name: siteName
+        description: Full name of the research center (e.g. "Smith LLC Research Center").
+      - name: countryCode
+        description: ISO 3166-1 alpha-2 country code where the site operates (e.g. US, FR, DE).
+      - name: country_name
+        description: Full English name of the country where the site operates.

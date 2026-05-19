@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: mart_trials
+    description: >
+      Trial dimension table. One row per clinical trial.
+      Each trial belongs to one sponsor and targets one indication.
+    columns:
+      - name: trial_id
+        description: Primary key. Unique identifier for the clinical trial (e.g. tr_0001).
+      - name: sponsor_id
+        description: Foreign key to dim_sponsors. The sponsor funding this trial.
+      - name: trialName
+        description: Internal code name for the trial (e.g. Aspire-342).
+      - name: indication
+        description: Medical condition or disease targeted by the trial (e.g. Non-Small Cell Lung Cancer).
+      - name: phase
+        description: Clinical trial phase (Phase I, II, III, or IV).
+      - name: status
+        description: Current recruitment status (recruiting, active, completed, suspended).
+      - name: start_date
+        description: Date the trial began recruiting.
+      - name: end_date
+        description: Planned or actual end date of the trial.
