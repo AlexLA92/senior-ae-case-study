@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: staging_sites
+  - name: stg_sites
     description: Staged research sites data from the raw sites seed.
     columns:
       - name: site_id

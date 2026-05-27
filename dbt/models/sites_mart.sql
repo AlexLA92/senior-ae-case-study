@@ -1,6 +1,6 @@
 with sites as (
 
-  select * from {{ ref('staging_sites') }}
+  select * from {{ ref('stg_sites') }}
 
 )
 
